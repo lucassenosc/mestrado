@@ -90,26 +90,6 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-## Execução
-
-Depois de instalar as dependências e baixar os dados, abra o projeto no VS Code e selecione o kernel Python do ambiente `.venv`.
-
-Uma ordem geral de execução é:
-
-```text
-1. build_data.ipynb
-2. build_data3.ipynb
-3. decision_tree.ipynb
-4. random_forest.ipynb
-5. svm.ipynb
-6. standart_wisard.ipynb
-7. bloom_wisard_final.ipynb
-8. curva_roc.ipynb
-9. agregador_csv.ipynb ou agregador.py
-```
-
-A ordem exata pode depender do experimento desejado e da disponibilidade dos arquivos em `data/`, `data2/` e `data3/`.
-
 ## Relatórios
 
 Os resultados gerados pelos experimentos são armazenados em:
