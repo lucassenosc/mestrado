@@ -107,13 +107,6 @@ Para executar o agregador:
 python agregador.py
 ```
 
-## Observações importantes
-
-* O ambiente virtual `.venv/` não deve ser enviado ao GitHub.
-* As pastas `data/`, `data2/` e `data3/` não devem ser enviadas ao GitHub.
-* Arquivos temporários como `__pycache__/` e `.ipynb_checkpoints/` devem permanecer fora do versionamento.
-* Os arquivos `.ipynb`, `.py`, `.csv` e `.txt` usam final de linha LF conforme configurado em `.gitattributes`.
-
 ## Reprodutibilidade
 
 Para reproduzir os experimentos em outro computador:
@@ -123,4 +116,3 @@ Para reproduzir os experimentos em outro computador:
 3. Instale as dependências com `requirements.txt`.
 4. Baixe as pastas de dados pelo Google Drive.
 5. Coloque `data/`, `data2/` e `data3/` na raiz do projeto.
-6. Execute os notebooks na ordem indicada.
