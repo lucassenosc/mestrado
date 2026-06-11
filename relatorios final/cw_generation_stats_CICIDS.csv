@@ -1,0 +1,3 @@
+Dataset,Mode,Attack,surrogate_success_rate,l2_mean,l2_median,l2_max,l2_min,batch_size,binary_search_steps,max_iterations,confidence,learning_rate,initial_const,abort_early
+CICIDS,binary,C&W,1.9835327114297107e-06,3.0930684147278953e-07,0.0,0.15374313294887543,0.0,128,5,500,0.0,0.005,0.01,True
+CICIDS,multiclass,C&W,1.1901196268578264e-05,3.0934276651350956e-07,0.0,0.15374313294887543,0.0,128,5,500,0.0,0.005,0.01,True

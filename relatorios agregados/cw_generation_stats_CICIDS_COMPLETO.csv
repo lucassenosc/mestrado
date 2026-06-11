@@ -1,0 +1,3 @@
+Dataset;Mode;Binarization;Attack;surrogate_success_rate;l2_mean;l2_median;l2_max;l2_min;batch_size;binary_search_steps;max_iterations;confidence;learning_rate;initial_const;abort_early
+CICIDS;binary;N/A;C&W;1,9835327114297107e-06;3,093068414727896e-07;0,0;0,1537431329488754;0,0;128;5;500;0,0;0,005;0,01;True
+CICIDS;multiclass;N/A;C&W;1,1901196268578264e-05;3,093427665135096e-07;0,0;0,1537431329488754;0,0;128;5;500;0,0;0,005;0,01;True

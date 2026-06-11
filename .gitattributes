@@ -1,0 +1,14 @@
+* text=auto
+
+*.ipynb text eol=lf
+*.py text eol=lf
+*.csv text eol=lf
+*.txt text eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.xlsx binary
+*.zip binary

@@ -1,0 +1,3 @@
+Dataset,Mode,Attack,surrogate_success_rate,l2_mean,l2_median,l2_max,l2_min,batch_size,binary_search_steps,max_iterations,confidence,learning_rate,initial_const,abort_early
+Bot-IoT,binary,C&W,0.0,1.7544336969876895e-06,0.0,0.19307617843151093,0.0,128,5,500,0.0,0.005,0.01,True
+Bot-IoT,multiclass,C&W,0.0,1.7544336969876895e-06,0.0,0.19307617843151093,0.0,128,5,500,0.0,0.005,0.01,True
