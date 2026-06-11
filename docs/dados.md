@@ -6,7 +6,7 @@ Os datasets utilizados neste projeto não estão versionados diretamente no GitH
 
 Os dados devem ser baixados pela pasta compartilhada no Google Drive:
 
-[Baixar dados no Google Drive](COLE_AQUI_O_LINK_DO_GOOGLE_DRIVE)
+[Baixar dados no Google Drive](https://drive.google.com/drive/folders/1xaqv2979bKpBT411Ifh70MKPlZ1Dz0id?usp=drive_link)
 
 ## Estrutura esperada
 
