@@ -1,8 +1,10 @@
 
 # Dados grandes
-data/
-data2/
-data3/
+/data/
+/data2/
+/data3/
+/data4/
+/data5/
 
 # Ambientes virtuais
 .venv/
@@ -11,3 +13,4 @@ venv/
 # Arquivos temporários
 __pycache__/
 .ipynb_checkpoints/
+*.pyc
