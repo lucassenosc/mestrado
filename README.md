@@ -31,11 +31,6 @@ A locally adapted `carlini_wagner_l2.py` implementation is also retained for com
 │   ├── cicids2017/
 │   └── unsw_nb15/
 │
-├── docs/
-│   ├── ambiente.md
-│   ├── dados.md
-│   └── execucao.md
-│
 ├── experiments/
 │   ├── baselines/
 │   │   ├── decision_tree.ipynb
