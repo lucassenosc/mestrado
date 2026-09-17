@@ -1,10 +1,16 @@
 * text=auto
 
-*.ipynb text eol=lf
+# Text files: normalize line endings to LF
+*.md text eol=lf
 *.py text eol=lf
-*.csv text eol=lf
+*.ipynb text eol=lf
 *.txt text eol=lf
+*.csv text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
 
+# Binary files
 *.png binary
 *.jpg binary
 *.jpeg binary
@@ -12,3 +18,8 @@
 *.pdf binary
 *.xlsx binary
 *.zip binary
+*.npy binary
+*.npz binary
+*.pkl binary
+*.pickle binary
+*.joblib binary

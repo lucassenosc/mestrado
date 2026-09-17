@@ -1,16 +1,31 @@
-
-# Dados grandes
+# Large datasets are downloaded separately
 /data/
-/data2/
-/data3/
-/data4/
-/data5/
 
-# Ambientes virtuais
+# Virtual environments
 .venv/
+.venv_*/
 venv/
+env/
 
-# Arquivos temporários
+# Python cache / compiled files
 __pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
 .ipynb_checkpoints/
-*.pyc
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary / local-only files
+*.tmp
+*.temp
+*.log
+old_environment_freeze.txt
