@@ -124,12 +124,13 @@ Two dependency files are provided:
 
 For the closest reproduction of the validated environment, use `requirements-lock.txt`.
 
-## 1. Clone the Repository
+## 1. Obtain the Anonymized Repository
 
-```bash
-git clone https://github.com/lucassenosc/mestrado.git
-cd mestrado
-```
+The anonymized reproducibility artifact associated with the paper is available at:
+
+https://anonymous.4open.science/r/artifact-8C48/
+
+Download the repository from the anonymized artifact page and open a terminal in the project root directory before continuing with the environment setup.
 
 ## 2. Create a Virtual Environment
 
@@ -197,7 +198,7 @@ Large datasets are intentionally excluded from Git because of their size.
 
 Download the dataset files from:
 
-[Download the datasets from Google Drive](https://drive.google.com/drive/folders/1xaqv2979bKpBT411Ifh70MKPlZ1Dz0id?usp=drive_link)
+[Download the datasets from Google Drive](https://drive.google.com/drive/folders/116HwuX547KEJ8spp6mhnufUL7Yq0Jg0i?usp=sharing)
 
 Place the files under:
 
@@ -377,7 +378,7 @@ These are auxiliary exploratory baselines. They are not required for reproductio
 
 A reviewer reproducing the IDS experiments should:
 
-1. Clone the repository.
+1. Download the anonymized reproducibility artifact from the link above.
 2. Use Python 3.13.12.
 3. Create and activate a fresh virtual environment.
 4. Install `requirements-lock.txt` for the validated environment.
@@ -401,4 +402,4 @@ If this repository is used in academic work, please cite the associated paper:
 
 > *Binarization as an Attack Surface in Weightless Neural Networks.*
 
-Citation metadata can be added here once the final publication information is available.
+Full citation metadata can be added after the double-blind review process is complete.
